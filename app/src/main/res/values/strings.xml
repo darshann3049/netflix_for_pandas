@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">netflix_for_pandas</string>
+    <string name="profile">+ ADD PROFILE</string>
+    <string name="panda3">Brown Panda</string>
+    <string name="panda2">Red Panda</string>
+    <string name="panda1">White Panda</string>
+    <string name="text1">Who\'s Watching?</string>
+    <string name="text2">Edit</string>
+    <string name="panda_text_1">White Panda</string>
+</resources>
